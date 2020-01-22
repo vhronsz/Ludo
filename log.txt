@@ -1,0 +1,12 @@
+rev 3 change :
+1. On start title screen will show first
+2. Update on blue win condition : no longer trigger thread null pointer
+3. Minor change on ui : text color is depended on player turn
+4. If all bidak on base and your roll is not 6 player will skip a turn
+5. Bidak on base cannot be moved if dice is not 6
+
+rev 3.1 change :
+Ui change : 
+1. Player turn and action will shown on separate line
+2. dice roll color will match the player color
+3. Adjusted frame size to match board size
